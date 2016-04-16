@@ -1,0 +1,22 @@
+{
+  "name": "hubot-mega",
+  "version": "0.0.2",
+  "description": "A bunch of fancy hubot commands and responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcsforeducation/hubot-mega.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Josh Gachnang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcsforeducation/hubot-mega/issues"
+  },
+  "homepage": "https://github.com/pcsforeducation/hubot-mega#readme"
+}
