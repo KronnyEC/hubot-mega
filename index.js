@@ -62,6 +62,12 @@ module.exports = function (robot) {
       reply: [
           'I hate Illinois Nazis.'
       ]
+    },
+    seenTheLight: {
+	hear: /(seen the light)/i,
+	reply: [
+	  'YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT!'
+	]
     }
 
   };
